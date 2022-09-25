@@ -1,14 +1,3 @@
-### Hi there 👋
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motseki)](https://github.com/motseki/github-readme-stats)
-
-
-### Hi there 👋, my name is Lebohang Bernard Motseki
-#### Software Design and Development
-
-
-
 <h1 align="center">Hi 👋, I'm Lebohang Bernard Motseki</h1>
 <h3 align="center">Mobile Web Developer | Mobile Applications</h3>
 
