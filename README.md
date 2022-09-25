@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motseki)](https://github.com/motseki/github-readme-stats)
 
+
+### Hi there 👋, my name is Lebohang Bernard Motseki
+#### Software Design and Development
+![Software Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am Lebohang Bernard Motseki from Lesotho. I am Software design and developer.
+
+Skills: Angular / REACT / JS / HTML / CSS /TypeScript
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
