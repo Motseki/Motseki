@@ -17,6 +17,6 @@ I am Frontend Angular and React Developer. I am also a Mobile Developer <br>usin
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=motseki)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=motseki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
