@@ -3,7 +3,7 @@
 <h2>Hi there 👋 <br><br>
 My name is Lebohang Bernard Motseki</h2>
 
-## Mobile Web Developer | Mobile Application Developer
+## Mobile Web Developer (React & Angular) | Mobile Application Developer (Android) | GADS 2022 Android Developer Mentor.
  
 
 ## 🌐 Socials:
