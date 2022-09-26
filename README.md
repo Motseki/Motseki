@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lebohang Bernard Motseki</h1>
-<h3 align="center">Mobile Web Developer | Mobile Applications</h3>
+<h1 align="left">Hi 👋, I'm Lebohang Bernard Motseki</h1>
+<h3 align="left">Mobile Web Developer | Mobile Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motseki&label=Profile%20views&color=0e75b6&style=flat" alt="motseki" /> </p>
 
