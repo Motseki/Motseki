@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-<h1>Hi there 👋 <br><br>
-My name is Lebohang Bernard Motseki</h1>
+<h2>Hi there 👋 <br><br>
+My name is Lebohang Bernard Motseki</h2>
 
 
 ## 🌐 Socials:
