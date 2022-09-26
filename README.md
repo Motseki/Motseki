@@ -3,7 +3,7 @@
 <h2>Hi there 👋 <br><br>
 My name is Lebohang Bernard Motseki</h2>
 
-## 🌐 Socials:
+## 🌐 Socials: Mobile Web Developer | Mobile Application Developer
  
 
 ## 🌐 Socials:
