@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Frontend Angular and React Developer. I am also a Mobile Developer <br>using Android.
+
+Hi there 👋
+My name is Lebohang Bernard Motseki
 
 
 ## 🌐 Socials:
