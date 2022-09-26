@@ -20,7 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motseki&show_icons=true&locale=en" alt="motseki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=motseki&" alt="motseki" /></p>
 
 
 ## Connect with me  
