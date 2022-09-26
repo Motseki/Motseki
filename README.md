@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋 <br>
+Hi there 👋 <br><br>
 My name is Lebohang Bernard Motseki
 
 
