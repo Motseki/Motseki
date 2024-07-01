@@ -3,7 +3,7 @@
 <h2>Hi there 👋 <br><br>
 My name is Lebohang Bernard Motseki</h2>
 
-## Full Stack Developer (Angular & React) 
+## Full Stack Developer (Django, Angular & React) 
  
 
 ## 🌐 Socials:
